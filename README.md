@@ -1,6 +1,7 @@
 # PostCSS Position Nib [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin to shorthand position rules like nib does.
+[PostCSS] plugin to shorthand position rules like [nib](https://tj.github.io/nib/) does.
+
 
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/TheSisb/postcss-position-nib.svg
