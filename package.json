@@ -1,0 +1,35 @@
+{
+  "name": "postcss-position-nib",
+  "version": "0.1.0",
+  "description": "PostCSS plugin to shorthand position rules like nib does",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "nib"
+  ],
+  "author": "TheSisb <shadiisber@gmail.com>",
+  "license": "MIT",
+  "repository": "TheSisb/postcss-position-nib",
+  "bugs": {
+    "url": "https://github.com/TheSisb/postcss-position-nib/issues"
+  },
+  "homepage": "https://github.com/TheSisb/postcss-position-nib",
+  "dependencies": {
+    "postcss": "^5.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-postcss": "^2.0.2",
+    "jest": "^18.0.0"
+  },
+  "scripts": {
+    "test": "jest && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss/es5",
+    "env": {
+      "jest": true
+    }
+  }
+}
