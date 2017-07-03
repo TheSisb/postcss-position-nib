@@ -1,6 +1,6 @@
 {
   "name": "postcss-position-nib",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin to shorthand position rules like nib does",
   "keywords": [
     "postcss",
@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/TheSisb/postcss-position-nib",
   "dependencies": {
-    "postcss": "^5.2.6"
+    "postcss": "^6.0.5"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
